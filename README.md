@@ -1,4 +1,4 @@
-# Python_Calculator
+# Python Calculator
 A simple calculator using Python3 with submenus that allows the user to select a number of basic operators. After a calculation, the program asks the user if they would like to calculate again or select another operator.
 
 ![Python Calculator Picture](https://github.com/twlai251/Python_Calculator/blob/main/pythonCalPic.PNG)
